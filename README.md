@@ -19,5 +19,14 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 | 2634 | Easy | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](basic-array-transformations/2634.js) |
 | 2626 | Easy | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](basic-array-transformations/2626.js) |
 
+### Function Transformations
+| # | Difficulty | Problem | Solution |
+|---|------------|---------|----------|
+| 2629 | Easy | [Function Composition](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](function-transformations/2629.js) |
+| 2703 | Easy | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](function-transformations/2703.js) |
+| 2666 | Easy | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](function-transformations/2666.js) |
+| 2623 | Medium | [Memoize](https://leetcode.com/problems/memoize/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](function-transformations/2623.js) |
+
+
 ## License
 Licensed under the [MIT License](./LICENSE).

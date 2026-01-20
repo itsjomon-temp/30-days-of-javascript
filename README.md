@@ -39,5 +39,17 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 | 2627 | Medium | [Debounce](https://leetcode.com/problems/debounce/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2627.js) |
 | 2721 | Medium | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2721.js) |
 
+### JSON
+| # | Difficulty | Problem | Solution |
+|---|------------|---------|----------|
+| 2727 | Easy | [Is Object Empty](https://leetcode.com/problems/is-object-empty/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2727.js) |
+| 2677 | Easy | [Chunk Array](https://leetcode.com/problems/chunk-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2677.js) |
+| 2619 | Easy | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2619.js) |
+| 2631 | Medium | [Group By](https://leetcode.com/problems/group-by/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2631.js) |
+| 2724 | Easy | [Sort By](https://leetcode.com/problems/sort-by/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2724.js) |
+| 2722 | Medium | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2722.js) |
+| 2625 | Medium | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2625.js) |
+| 2705 | Medium | [Compact Object](https://leetcode.com/problems/compact-object/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2705.js) |
+
 ## License
 Licensed under the [MIT License](./LICENSE).
